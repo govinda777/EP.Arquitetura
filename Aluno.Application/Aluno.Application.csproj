@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B0DA31F6-54B8-41C2-BBE9-6C901337F901}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Aluno.Application</RootNamespace>
+    <AssemblyName>Aluno.Application</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DomainValidation, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\DomainValidation.1.0.0\lib\net45\DomainValidation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Adapters\AlunoAdapter.cs" />
+    <Compile Include="AlunoAppService.cs" />
+    <Compile Include="Bus\BusConfig.cs" />
+    <Compile Include="Interfaces\IAlunoAppService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewModels\AlunoViewModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Aluno.CommandStack\Aluno.CommandStack.csproj">
+      <Project>{3FBA2C60-8BDA-4C38-BE1E-2ADE98854BA4}</Project>
+      <Name>Aluno.CommandStack</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Aluno.Data.Read\Aluno.Data.Read.csproj">
+      <Project>{E5AF6907-3598-4662-945B-1A890D170BCA}</Project>
+      <Name>Aluno.Data.Read</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Aluno.Domain.Core\Aluno.Domain.Core.csproj">
+      <Project>{b5bf597b-e78b-431c-8a5b-21b2c4cf5a6e}</Project>
+      <Name>Aluno.Domain.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Kernel.Domain.Core\Kernel.Domain.Core.csproj">
+      <Project>{abbc1f78-a206-4886-b4e0-8915bcac4260}</Project>
+      <Name>Kernel.Domain.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Kernel.Infra\Kernel.Infra.csproj">
+      <Project>{5723045D-680C-4644-9D50-3621E9CFBAB2}</Project>
+      <Name>Kernel.Infra</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
