@@ -1,0 +1,12 @@
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Aluno.Data.Read\bin\Debug\Aluno.Data.Read.dll.config
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Aluno.Data.Read\bin\Debug\Aluno.Data.Read.dll
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Aluno.Data.Read\bin\Debug\Aluno.Data.Read.pdb
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Aluno.Data.Read\bin\Debug\Dapper.dll
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Aluno.Data.Read\bin\Debug\EntityFramework.dll
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Aluno.Data.Read\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Aluno.Data.Read\bin\Debug\Dapper.pdb
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Aluno.Data.Read\bin\Debug\Dapper.xml
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Aluno.Data.Read\bin\Debug\EntityFramework.xml
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Aluno.Data.Read\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Aluno.Data.Read\obj\Debug\Aluno.Data.Read.dll
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Aluno.Data.Read\obj\Debug\Aluno.Data.Read.pdb
