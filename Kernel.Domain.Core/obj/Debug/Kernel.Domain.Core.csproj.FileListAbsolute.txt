@@ -1,0 +1,4 @@
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Kernel.Domain.Core\bin\Debug\Kernel.Domain.Core.dll
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Kernel.Domain.Core\bin\Debug\Kernel.Domain.Core.pdb
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Kernel.Domain.Core\obj\Debug\Kernel.Domain.Core.dll
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Kernel.Domain.Core\obj\Debug\Kernel.Domain.Core.pdb
