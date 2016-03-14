@@ -1,0 +1,9 @@
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Matricula.Data\bin\Debug\Matricula.Data.dll
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Matricula.Data\bin\Debug\Matricula.Data.pdb
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Matricula.Data\bin\Debug\Matricula.Domain.Core.dll
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Matricula.Data\bin\Debug\Kernel.Domain.Core.dll
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Matricula.Data\bin\Debug\Matricula.Domain.Core.pdb
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Matricula.Data\bin\Debug\Kernel.Domain.Core.pdb
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Matricula.Data\obj\Debug\Matricula.Data.csprojResolveAssemblyReference.cache
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Matricula.Data\obj\Debug\Matricula.Data.dll
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Matricula.Data\obj\Debug\Matricula.Data.pdb

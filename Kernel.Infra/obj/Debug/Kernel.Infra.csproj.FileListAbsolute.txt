@@ -1,0 +1,9 @@
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Kernel.Infra\bin\Debug\Kernel.Infra.dll
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Kernel.Infra\bin\Debug\Kernel.Infra.pdb
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Kernel.Infra\bin\Debug\Kernel.Infra.EventStore.SqlServer.dll
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Kernel.Infra\bin\Debug\EntityFramework.dll
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Kernel.Infra\bin\Debug\Kernel.Infra.EventStore.SqlServer.pdb
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Kernel.Infra\bin\Debug\EntityFramework.xml
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Kernel.Infra\obj\Debug\Kernel.Infra.csprojResolveAssemblyReference.cache
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Kernel.Infra\obj\Debug\Kernel.Infra.dll
+C:\Users\lua.souza\Desktop\ArquiteturaSW.NET-ModuloII\Demo III\EP.Arquitetura\Kernel.Infra\obj\Debug\Kernel.Infra.pdb
